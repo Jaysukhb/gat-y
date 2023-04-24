@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://y2meta.mobi/gat-y/sitemap-index.xml
+Host: https://y2meta.mobi
